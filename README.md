@@ -1,4 +1,1 @@
-# SE
-# SoftwareE
-# SoftwareE
-# SoftwareE
+# GIT PRACTICE
