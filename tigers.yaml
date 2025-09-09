@@ -1,15 +1,18 @@
 team: Tigers
 
-<<<<<<< HEAD
-manager: Kenneth
-=======
-manager: Deborah
->>>>>>> conflict-1
+manager: Thanos
 
-coach: Grace
+coach: Ronan
 
 members:
   - Linda
   - William
   - David
   - George
+  - Tyler
+  - Kim
+  - Gamora
+  - Nebula
+
+fetch: this
+new: branch
